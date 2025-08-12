@@ -2,6 +2,6 @@
 Exercicio Ebac - Usando Git e Github pela primeira vez
 
 
-##Larri Rafael
+#Larri Rafael
 ##Teste ebac
-##exercicio 01 - GIT
+#exercicio 01 - GIT
